@@ -1,5 +1,7 @@
 # SMB3 Gimmick
 
+> **SMB3 Gimmick has moved** to [Pigmassacre/romhacks](https://github.com/Pigmassacre/romhacks/tree/main/smb3-gimmick), with its history. This repository is archived. Releases up to v1.5.0 stay downloadable here; new ones are published there.
+
 Yumetaro, from Sunsoft's *Gimmick!*, in the worlds of *Super Mario Bros. 3*. He keeps his own jump, his star, and his health. The levels are Super Mario Bros. 3.
 
 You bring your own copies of the two NES games. The SMB3 Gimmick program builds the new game from them on your computer.
